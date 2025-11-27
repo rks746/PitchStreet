@@ -12,12 +12,12 @@ To create an engaging stock market simulation where college students pitch their
 ### 🏁 Phase 1: The Pitchers (Startups)
 
 #### 👥 Who participates?
-- College students with startup ideas.
+- College students with real-world startup ideas.
 - Teams pitch their ideas to a panel.
 
 #### 🏆 Selection Process:
 - The top 5 best startup ideas are selected.
-- We help these teams refine and improve their ideas and present a perfect pitch on event day.
+- The panel of judges and some experts help these teams refine and improve their ideas and present a perfect pitch on event day.
 
 #### 🏢 Company Registration:
 - The 5 selected teams become "companies."
@@ -51,7 +51,7 @@ To create an engaging stock market simulation where college students pitch their
 - (Weighted to prevent end-round sellouts that distort company valuation)
 
 ### 🥇 Best Startup (Pitchers)
-Decided by one of the following models:
+Decided by one of the following models: (to be decided by organizers)
 - **Stock Price Method** → Highest stock price wins
 - **Company Valuation Method** → Market cap (total shares × stock price)
 - **Hybrid Model** → Combines stock price, audience votes, and panel scores
